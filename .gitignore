@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.user
+*.suo
+
+# OS / archives
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
